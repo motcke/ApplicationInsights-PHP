@@ -1,7 +1,7 @@
 # Application Insights for PHP
 
-[![Build Status](https://travis-ci.org/Microsoft/ApplicationInsights-PHP.svg?branch=master)](https://travis-ci.org/Microsoft/ApplicationInsights-PHP) 
-[![Packagist Pre Release](https://img.shields.io/packagist/vpre/microsoft/application-insights.svg)](https://packagist.org/packages/microsoft/application-insights)
+[![Build Status](https://travis-ci.org/motcke/ApplicationInsights-PHP.svg?branch=master)](https://travis-ci.org/motcke/ApplicationInsights-PHP) 
+<!-- [![Packagist Pre Release](https://img.shields.io/packagist/vpre/microsoft/application-insights.svg)](https://packagist.org/packages/microsoft/application-insights) -->
 
 This project extends the Application Insights API surface to support PHP.
 [Application
