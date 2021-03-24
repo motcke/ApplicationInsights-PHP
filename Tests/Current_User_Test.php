@@ -16,7 +16,7 @@ class Current_User_Test extends TestCase
         Utils::setUserCookie($this->userId);
     }
 
-    protected function tearDown()
+    protected function tearDown(): void
     {
         Utils::clearUserCookie();
     }
